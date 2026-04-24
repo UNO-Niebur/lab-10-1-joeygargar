@@ -1,0 +1,6 @@
+The graph that I generated shows the relationship for the
+trial and the reaction time. Examining the graph you can see
+that as the trial number increases the time decreases which 
+shows that it improves over time. Although there are some small
+inconsistencies the overall trend helps us understand how 
+performance changes across the trials.
